@@ -1,3 +1,9 @@
+Wikis are only migrated for ietfdb repo. The pages were migrated retaining the final path segment, but adding `.md` extension (as trac wiki content was converted to markdown).
+
+Internal Trac specific pages were not migrated. 
+
+Below is the list of all [`Migrated`](https://github.com/ietf-ribose/tracsvn-to-github-deliverables/edit/main/Migrated-Wikis.md#migrated) and [`Skipped`](https://github.com/ietf-ribose/tracsvn-to-github-deliverables/edit/main/Migrated-Wikis.md#skipped) pages.
+
 ## Migrated
   - InterWiki.md
   - InterMapTxt.md
@@ -185,49 +191,49 @@
   - IETF113Sprint.md
 
 ## Skipped
-  - TracModPython.md
-  - TracRss.md
-  - WikiRestructuredText.md
-  - TracStandalone.md
-  - TracReports.md
-  - TracPlugins.md
-  - TracTimeline.md
-  - TracLinks.md
-  - WikiNewPage.md
-  - TracFastCgi.md
-  - TracSearch.md
-  - TracBackup.md
-  - TracGuide.md
-  - TracSupport.md
-  - TracPermissions.md
-  - WikiDeletePage.md
-  - TracTickets.md
-  - TracCgi.md
-  - TracWiki.md
-  - TracInterfaceCustomization.md
-  - TracImport.md
-  - TracEnvironment.md
-  - TracInstall.md
-  - WikiProcessors.md
-  - TracAccessibility.md
-  - TracChangeset.md
-  - WikiHtml.md
-  - TracLogging.md
-  - WikiPageNames.md
-  - TracRoadmap.md
-  - TracQuery.md
-  - WikiMacros.md
-  - TracIni.md
-  - WikiRestructuredTextLinks.md
-  - TracTicketsCustomFields.md
-  - WikiFormatting.md
-  - TracAdmin.md
-  - TracNotification.md
-  - TracSyntaxColoring.md
-  - TracUpgrade.md
-  - TracBrowser.md
-  - TracUnicode.md
-  - TracRevisionLog.md
-  - TracFineGrainedPermissions.md
-  - TracNavigation.md
-  - TracWorkflow.md
+  - TracModPython
+  - TracRss
+  - WikiRestructuredText
+  - TracStandalone
+  - TracReports
+  - TracPlugins
+  - TracTimeline
+  - TracLinks
+  - WikiNewPage
+  - TracFastCgi
+  - TracSearch
+  - TracBackup
+  - TracGuide
+  - TracSupport
+  - TracPermissions
+  - WikiDeletePage
+  - TracTickets
+  - TracCgi
+  - TracWiki
+  - TracInterfaceCustomization
+  - TracImport
+  - TracEnvironment
+  - TracInstall
+  - WikiProcessors
+  - TracAccessibility
+  - TracChangeset
+  - WikiHtml
+  - TracLogging
+  - WikiPageNames
+  - TracRoadmap
+  - TracQuery
+  - WikiMacros
+  - TracIni
+  - WikiRestructuredTextLinks
+  - TracTicketsCustomFields
+  - WikiFormatting
+  - TracAdmin
+  - TracNotification
+  - TracSyntaxColoring
+  - TracUpgrade
+  - TracBrowser
+  - TracUnicode
+  - TracRevisionLog
+  - TracFineGrainedPermissions
+  - TracNavigation
+  - TracWorkflow

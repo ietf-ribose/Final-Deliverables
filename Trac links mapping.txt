@@ -1,0 +1,717 @@
+"https://www.rfc-editor.org/rfc/rfc8407.html":
+  - orignal: "https://trac.ietf.org/area/ops/trac/wiki/yang-security-guidelines" # Error: Object not found!
+    new:
+  - orignal: "https://trac.ietf.org/trac/netconf/wiki"
+    new: # netconf not yet migrated to git
+  - orignal: "https://trac.ietf.org/trac/netmod/wiki"
+    new: # NETMOD not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc8342.html":
+  - orignal: "https://trac.ietf.org/area/ops/trac/wiki/yang-security-guidelines" # Error: Object not found!
+    new:
+
+"https://www.rfc-editor.org/rfc/rfc8341.html":
+  - orignal: "https://trac.ietf.org/area/ops/trac/wiki/yang-security-guidelines" # Error: Object not found!
+    new:
+
+"https://www.rfc-editor.org/rfc/rfc8632.html":
+  - orignal: "https://trac.ietf.org/trac/ccamp"
+    new: # CCAMP not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc9055.html":
+  - orignal: "https://trac.ietf.org/trac/ops/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc8976.html":
+  - orignal: "https://trac.ietf.org/trac/dnsop/wiki/RFC8976ZONEMDTestCases"
+    new: # DNSOP not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc7827.html":
+  - orignal: "http://trac.tools.ietf.org/group/iesg/trac/wiki/GenericExpertise?version=18"
+    new: # IESG not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki"
+    new: # IRTF not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc6087.html":
+  - orignal: "http://trac.tools.ietf.org/wg/netconf/trac/wiki"
+    new: # netconf not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/wiki/AppsDirReview"
+    new: # AppsDirReview not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/gen/trac/wiki"
+    new: # gen not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc7735.txt":
+  - orignal: "https://wiki.tools.ietf.org/tools/art/trac/report/1"
+    new: # not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/gen/trac/wiki"
+    new: # gen not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/rtg/trac/wiki/RtgDir"
+    new: # RTG not yet migrated to git
+  - orignal: "https://svn.tools.ietf.org/area/ops/trac/wiki/Directorates"
+    new: # OPS not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/sec/trac/wiki/SecurityDirectorate"
+    new: # SEC not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc6057.html":
+  - orignal: "http://trac.tools.ietf.org/area/rai/trac/raw-attachment/wiki/PeerToPeerInfrastructure/16%20ietf-p2pi-comcast-20080509.pdf"
+    new: # RAI not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/rai/trac/raw-attachment/wiki/PeerToPeerInfrastructure/02-Comcast-IETF-P2Pi.pdf"
+    new: # RAI not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc6756.html":
+  - orignal: "http://trac.tools.ietf.org/bof/trac/" # Access forbidden! Error 403
+    new:
+
+"https://www.rfc-editor.org/rfc/rfc7416":
+  - orignal: "http://trac.tools.ietf.org/wg/core/trac/wiki/ACE_charter"
+    new: # core not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc8875.html":
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/ticket/2548"
+    new: "https://github.com/ietf-tools/datatracker/issues/2548"
+
+"https://www.rfc-editor.org/rfc/rfc7241.html":
+  - orignal: "http://trac.tools.ietf.org/bof/trac/"
+    new: # Access forbidden! Error 403
+
+"https://www.rfc-editor.org/rfc/rfc6701.html":
+  - orignal: "http://trac.tools.ietf.org/group/iesg/trac/wiki/IntellectualProperty"
+    new: # iesg not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc7322.html":
+  - orignal: "http://trac.tools.ietf.org/area/ops/trac/wiki/mib-security"
+    new: # OPS not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/ops/trac/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc6275.html":
+  - orignal: "http://trac.tools.ietf.org/wg/mext/trac/report/6"
+    new: # MEXT not yet migrated to git
+
+"https://www.ietf.org/media/documents/IETF_Tools_Support_RFP.docx.pdf":
+  - orignal: "https://trac.tools.ietf.org/group/tools/trac/"
+    new:
+  - orignal: "http://wiki.tools.ietf.org/tools/xml2rfc/trac/"
+    new: "https://github.com/ietf-tools/xml2rfc/issues"
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/browser/branch/elft/"
+    new: "https://github.com/ietf-tools/datatracker" # Added link to the repo because this branch is deleted on github
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/browser/branch/hawk/"
+    new: "https://github.com/ietf-tools/datatracker" # Added link to the repo because this branch is deleted on github
+
+"https://www.ietf.org/media/documents/ietf106.pdf":
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/newticket"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/new"
+
+"https://www.ietf.org/blog/ietf-tools-and-dallas/":
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/wiki/IETF92Sprint"
+    new: "https://github.com/ietf-tools/datatracker/wiki/IETF92Sprint"
+
+"https://www.ietf.org/mailman/listinfo/Anima-signaling":
+  - orignal: "http://trac.tools.ietf.org/wg/anima/trac/wiki/Design%20Team%20Charter"
+    new: # ANIMA not yet migrated to git
+
+"https://www.ietf.org/proceedings/85/slides/slides-85-icnrg-4.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/icnrg"
+    new: # IRTF not yet migrated to git
+
+"https://www.ietf.org/mailman/listinfo/Teaching":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/Teaching"
+    new: # IRTF not yet migrated to git
+
+"https://www.ietf.org/proceedings/90/dbound.html":
+  - orignal: "https://trac.tools.ietf.org/wg/dbound/trac/wiki/AdditionalBackgroundInformation"
+    new: # dbound not yet migrated to git
+
+"https://www.ietf.org/proceedings/78/slides/decade-3.pdf":
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/wiki/BarBofs/IETF75/P2PCaching"
+    new: # app not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/bof/trac/wiki/decade"
+    new: # not yet migrated to git
+
+"https://www.ietf.org/media/documents/RFC_Errata_Merge_Tool_RFP_04-08-19_Appended.pdf":
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/wiki/ContractorInstructions?version=26"
+    new: "https://github.com/ietf-tools/datatracker/wiki/ContractorInstructions"
+
+"https://www.ietf.org/id/draft-ietf-tcpm-rfc8312bis-07.html":
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/ticket/596"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/596"
+
+"https://www.ietf.org/proceedings/87/slides/slides-87-jose-3.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/jose/trac/report/1"
+    new: # JOSE not yet migrated to git
+
+"https://www.ietf.org/proceedings/10mar/slides/behave-17.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/behave/trac/wiki/WikiStart"
+    new: # BEHAVE not yet migrated to git
+
+"https://www.ietf.org/proceedings/96/slides/slides-96-rtgarea-0.pdf":
+  - orignal: "http://trac.tools.ietf.org/area/rtg/trac/wiki/WikiStart"
+    new: # RTG not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/rtg/trac/wiki/RtgDir"
+    new: # RTG not yet migrated to git
+
+"https://www.ietf.org/media/documents/IETF_Automatic_Schedule_Builder_RFP_v2-12Sept19.pdf":
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/browser/trunk#ietf/meeting"
+    new: "https://github.com/ietf-tools/datatracker/tree/main/ietf/meeting"
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/browser/trunk/ietf/meeting/placement.py?rev=12923"
+    new: "https://github.com/ietf-tools/datatracker/blob/5f053ad21a2b0c1abc66d77cad03ba7e9ef4731e/ietf/meeting/placement.py"
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/browser/trunk/ietf/meeting/management/commands/autoplace.py?rev=12923"
+    new: "https://github.com/ietf-tools/datatracker/blob/5f053ad21a2b0c1abc66d77cad03ba7e9ef4731e/ietf/meeting/management/commands/autoplace.py"
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/wiki/ContractorInstructions"
+    new: "https://github.com/ietf-tools/datatracker/wiki/ContractorInstructions"
+
+"https://www.ietf.org/proceedings/interim-2016-6tisch-03/slides/slides-interim-2016-6tisch-3-1.pdf":
+  - orignal: "https://trac.tools.ietf.org/wg/6lo/trac/ticket/16"
+    new: # 6LO not yet migrated to git
+
+"https://www.ietf.org/proceedings/78/slides/dispatch-0.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/dispatch/trac/wiki"
+    new: # DISPATCH not yet migrated to git
+
+"https://www.ietf.org/proceedings/86/slides/slides-86-scim-2.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/scim/trac/ticket/33"
+    new: # not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/wg/scim/trac/ticket/38"
+    new: # not yet migrated to git
+
+"https://www.ietf.org/proceedings/93/slides/slides-93-mile-3.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/mile/trac/report/1?asc=1&sort=ticket"
+    new: # MILE not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/wg/mile/trac/ticket/46"
+    new: # MILE not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/wg/mile/trac/ticket/39"
+    new: # MILE not yet migrated to git
+
+"https://www.ietf.org/proceedings/99/slides/slides-99-nfvrg-00-welcome-and-admin-matters-00.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/nfvrg"
+    new: # IRTF not migrated to git yet
+
+"https://www.ietf.org/staging/slides-110-rtgarea-application-aware-networking-apn-ss1025.pdf":
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon"
+    new: # Meeting wiki not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/bof/trac/wiki/WikiStart"
+    new:
+
+"https://www.ietf.org/proceedings/85/slides/slides-85-iesg-opsandtech-3.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/iab/trac/report/1"
+    new: # IAB not yet migrated to git
+
+"https://www.ietf.org/archive/id/draft-ietf-httpbis-p5-range-09.html":
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/150"
+    new: # httpbis not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/151"
+    new: # httpbis not yet migrated to git
+
+"https://www.ietf.org/chairs/document-writeups/essay-style-document-writeup/":
+  - orignal: "https://trac.tools.ietf.org/group/iesg/trac/wiki/DownrefRegistry"
+    new: # IESG not yet migrated to git
+
+"https://www.ietf.org/proceedings/84/agenda/agenda-84-icnrg":
+  - orignal: "https://trac.tools.ietf.org/group/irtf/trac/wiki/icnrg"
+    new: # IRTF not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/group/irtf/trac/attachment/wiki/icnrg/draft-narayanan-icnrg-bgp-uri-00.txt"
+    new: # IRTF not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/group/irtf/trac/raw-attachment/wiki/icnrg/COM13-LS232.pdf"
+    new: # IRTF not yet migrated to git
+
+"https://www.ietf.org/proceedings/80/slides/apparea-11.pdf":
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/attachment/wiki/Clouds/Johnston-IETF-78-Clouds-bar-BoF-Std-Gap-28July10.pdf"
+    new: # app not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/attachment/wiki/Clouds/Karavettil-et-al-IETF-VDI-Draft-v1-03042011.pdf"
+    new: # app not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/attachment/wiki/Clouds/Protocol%20Considerations%20for%20Workload%20Mobility%20in%20Clouds.txt"
+    new: # app not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/attachment/wiki/Clouds/draft-rfc-seamless-Cloud-masum-01.txt"
+    new: # app not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/attachment/wiki/Clouds/Karavettil-et-al-IETF-Cloud-Security-Framework-11Feb2011_v2.pdf"
+    new: # app not yet migrated to git
+
+"https://www.ietf.org/proceedings/76/slides/decade-4.pdf":
+  - orignal: "http://trac.tools.ietf.org/area/app/trac/wiki/BarBofs/IETF75/P2PCaching"
+    new: # app not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/bof/trac/wiki/decade"
+    new: # not yet migrated to git
+
+"https://www.ietf.org/proceedings/94/slides/slides-94-teas-0.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/teas/trac/wiki"
+    new: # TEAS not yet migrated to git
+
+"https://www.ietf.org/proceedings/90/slides/slides-90-iesg-opsplenary-7.pdf":
+  - orignal: "http://trac.tools.ietf.org:9000/p/notes-90-admin-plenary"
+    new: # Error: Can not connect to server
+
+"https://www.ietf.org/proceedings/interim-2013-icnrg-03/slides/slides-interim-2013-icnrg-3-1.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/icnrg"
+    new: # IRTF not migrated to git yet
+
+"https://www.ietf.org/proceedings/89/slides/slides-89-i2rs-10.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/netconf/trac/wiki"
+    new: # netconf not yet migrated to git
+
+"https://www.ietf.org/proceedings/83/slides/slides-83-dispatch-3.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/dispatch/trac/wiki"
+    new: # DISPATCH not yet migrated to git
+
+"https://www.ietf.org/proceedings/93/slides/slides-93-pim-7.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/pim/trac/wiki/yang"
+    new: # pim not yet migrated to git
+
+"https://www.ietf.org/proceedings/98/slides/slides-98-icnrg-chairs-presentation-01.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/icnrg"
+    new: # IRTF not migrated to git yet
+
+"https://www.ietf.org/proceedings/80/slides/mpls-13.pdf":
+  - orignal: "http://trac.tools.ietf.org/misc/mpls-tp-mib/wiki"
+    new:
+
+"https://www.ietf.org/archive/id/draft-ietf-iri-3987bis-13.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/report/1"
+    new: # IRI not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/log/draft-ietf-iri-3987bis"
+    new: # IRI not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/log/draft-ietf-iri-3987bis/draft-ietf-iri-3987bis.xml"
+    new: # IRI not yet migrated to git
+
+"https://www.ietf.org/proceedings/88/slides/slides-88-iab-techplenary-2.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/iab/trac/report/1"
+    new: # IAB not yet migrated to git
+
+"https://www.ietf.org/proceedings/96/slides/slides-96-its-0.pdf":
+  - orignal: "https://trac.tools.ietf.org/wg/its/trac/"
+    new: # ITS not yet migrated to git
+
+"https://www.ietf.org/proceedings/90/slides/slides-90-opsawg-10.pdf":
+  - orignal: "http://trac.tools.ietf.org/bof/trac/wiki/WikiStart"
+    new: # not yet migrated to git
+
+"https://www.ietf.org/proceedings/82/slides/iri-3.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/report/1"
+    new: # IRI not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/log/draft-ietf-iri-3987bis/draft-ietf-iri-3987bis.xml"
+    new: # IRI not yet migrated to git
+
+"https://www.ietf.org/proceedings/93/slides/slides-93-anima-1.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/anima/trac/wiki/Signaling"
+    new: # ANIMA not migrated to git yet
+
+"https://www.ietf.org/proceedings/75/slides/mptcp-2.pdf":
+  - orignal: "http://trac.tools.ietf.org/area/tsv/trac/wiki/MultipathTcp"
+    new: # TSV not yet migrated to git
+
+"https://www.ietf.org/blog/routing-area-directors-thoughts-ietf-96/":
+  - orignal: "https://trac.tools.ietf.org/area/rtg/trac/wiki"
+    new: # RTG not yet migrated to git
+
+"https://www.ietf.org/proceedings/73/slides/sip-2.pdf":
+  - orignal: "http://trac.tools.ietf.org/2009/jan-large-interim/"
+    new:
+
+"https://www.ietf.org/proceedings/96/slides/slides-96-rtgwg-5.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/iesg/trac/wiki/IntellectualProperty"
+    new: # IESG not yet migrated to git
+
+"https://www.ietf.org/proceedings/96/slides/slides-96-sfc-6.pdf":
+  - orignal: "https://trac.tools.ietf.org/area/rtg/trac/wiki/RtgOoamDT"
+    new: # RTG not yet migrated to git
+
+"https://www.ietf.org/proceedings/82/slides/websec-2.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/websec/trac/query?"
+    new: # websec not yet migrated to git
+
+"https://www.ietf.org/proceedings/93/slides/slides-93-rtgwg-8.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/iesg/trac/wiki/IntellectualProperty"
+    new: # IESG not yet migrated to git
+
+"https://www.ietf.org/lib/dt/documents/LIAISON/file728.pdf":
+  - orignal: "http://trac.tools.ietf.org/bof/trac/wiki/BifIETF76"
+    new: # not yet migrated to git
+
+"https://www.ietf.org/proceedings/83/slides/slides-83-iri-1.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/report/1"
+    new: # IRI not yet migrated to git
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/log/draft-ietf-iri-3987bis/draft-ietf-iri-3987bis.xml"
+    new: # IRI not yet migrated to git
+
+"https://www.ietf.org/proceedings/82/slides/HIPRG-0.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/hiprg"
+    new: # IRTF not migrated to git yet
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/IRTF-RFCs"
+    new: # IRTF not migrated to git yet
+
+"https://www.ietf.org/proceedings/73/slides/iv6ops-0.pdf":
+  - orignal: "http://trac.tools.ietf.org/area/int/trac/wiki/v4v6interim"
+    new: # Internet Area not yet migrated to git
+
+"https://www.ietf.org/rfc/inline-errata/rfc7945.html":
+  - orignal: "https://trac.tools.ietf.org/group/irtf/trac/wiki/IcnEvaluationAndTestbeds"
+    new: # IRTF not yet migrated to git
+
+"https://www.ietf.org/proceedings/86/slides/slides-86-aggsrv-0.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/appsawg/trac/wiki/AggSrv"
+    new: # appsawg not yet migrated to git
+
+"https://www.ietf.org/proceedings/93/slides/slides-93-mpls-12.pdf":
+  - orignal: "http://trac.tools.ietf.org/area/rtg/trac/wiki/RtgYangCoord"
+    new: # RTG not yet migrated to git
+
+"https://www.ietf.org/archive/id/draft-ietf-iri-bidi-guidelines-03.pdf":
+  - orignal: "http://trac.tools.ietf.org/wg/iri/trac/log/draft-ietf-iri-3987bis/draft-ietf-iri-bidi-guidelines.xml"
+    new: # IRI not yet migrated to git
+
+"https://www.ietf.org/archive/id/draft-zhang-icnrg-pid-naming-scheme-03.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/raw-attachment/wiki/icnrg/IRTF%20-%20CCN%20And%20IP%20Routing%20-%202.pdf 2011."
+    new: # IRTF not migrated to git yet
+
+"https://www.ietf.org/proceedings/87/slides/slides-87-iab-techplenary-5.pdf":
+  - orignal: "http://trac.tools.ietf.org/group/iab/trac/wiki/IETF-87"
+    new: # IAB not yet migrated to git
+
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-shmoo-hackathon-01":
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/108hackathon"
+    new: # Meeting wiki not yet migrated to git
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon"
+    new: # Meeting wiki not yet migrated to git
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/lost&found"
+    new: # Meeting wiki not yet migrated to git
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/resultspresentationschedule"
+    new: # Meeting wiki not yet migrated to git
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/106hackdemo"
+    new: # Meeting wiki not yet migrated to git
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/106codelounge"
+    new: # Meeting wiki not yet migrated to git
+  - orignal: "https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/teamschedule"
+    new: # Meeting wiki not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-atlas-geo-focused-activities-00":
+  - orignal: "https://trac.ietf.org/trac/edu/outreach"
+    new: # Error: No handler matched request to /outreach
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-dmarc-dmarcbis-01":
+  - orignal: "https://trac.ietf.org/trac/dmarc/"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/7"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/7"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/3"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/3"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/26"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/26"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/75"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/75"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/72"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/72"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/54"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/54"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/50"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/50"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/66"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/66"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/53"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/53"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/52"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/52"
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/47"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/47"
+
+"https://datatracker.ietf.org/doc/html/draft-claise-opsawg-service-assurance-yang-00":
+  - orignal: "https://trac.ietf.org/trac/ops/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-mboned-dorms-03":
+  - orignal: "https://trac.ietf.org/trac/ops/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-dnsop-nsec-ttl-04":
+  - orignal: "https://trac.ietf.org/trac/dnsop/wiki/draft-ietf-dnsop-nsec-ttl"
+    new: # DNSOP not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-netmod-rfc6087bis-20":
+  - orignal: "https://trac.ietf.org/trac/ops/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/netconf/trac/wiki"
+    new: # netconf not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-git-using-github-02":
+  - orignal: "https://trac.ietf.org/trac/core/wiki"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-sarathchandra-coin-appcentres-04":
+  - orignal: "https://trac.ietf.org/trac/irtf/wiki/RoutingResearchGroup"
+    new:  # IRTF not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/rfc8342":
+  - orignal: "https://trac.ietf.org/trac/ops/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-kaimindermann-securecryptoconfig-00":
+  - orignal: "https://trac.ietf.org/trac/sec/wiki/TypicalSECAreaIssues"
+    new: # SEC not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-claise-netconf-metadata-for-collection-01":
+  - orignal: "https://trac.ietf.org/trac/ops/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-pim-yang-12":
+  - orignal: "https://trac.ietf.org/trac/pim/wiki/yang"
+    new: # pim not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-dmarc-aggregate-reporting-00":
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/76"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/76"
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-dmarc-arc-protocol-18":
+  - orignal: "https://trac.ietf.org/trac/dmarc/ticket/17"
+    new: "https://github.com/ietf-wg-dmarc/dmarc-draftissues/issues/17"
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-p6-cache-26":
+  - orignal: "https://trac.tools.ietf.org/html/draft-ietf-httpbis-p6-cache-24#appendix-D"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-method-registrations-13":
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/query?component=method-registrations"
+    new: # httpbis not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-p2-semantics-17":
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/312"
+    new: # httpbis not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-websec-strict-transport-sec-11":
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/47"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/49"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/45"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/33"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/37"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/40"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/43"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/44"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/38"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/36"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/13"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/27"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/28"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/29"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/30"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/31"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/32"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/34"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/35"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/14"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/26"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/1"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/2"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/3"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/4"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/5"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/6"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/7"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/8"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/9"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/10"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/11"
+    new: # websec not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/websec/trac/ticket/12"
+    new: # websec not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-content-disp-03":
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/123"
+    new: # httpbis not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/query?component=content-disp"
+    new: # httpbis not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-p7-auth-21":
+  - orignal: "https://trac.tools.ietf.org/html/draft-ietf-httpbis-p7-auth-19#appendix-C"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-iri-3987bis-05":
+  - orignal: "https://trac.tools.ietf.org/wg/iri/trac/report/1"
+    new: # IRI not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-p5-range-18":
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/175"
+    new: # httpbis not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/301"
+    new: # httpbis not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/319"
+    new: # httpbis not yet migrated to git
+  - orignal: "https://tools.ietf.org/wg/httpbis/trac/ticket/186"
+    new: # httpbis not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-ftpext2-hash-03":
+  - orignal: "https://trac.tools.ietf.org/wg/ftpext2/trac/report/1"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-p1-messaging-24":
+  - orignal: "https://trac.tools.ietf.org/html/draft-ietf-httpbis-p1-messaging-21#appendix-D"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-reschke-xml2rfc-11":
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/ticket/36"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/36"
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/ticket/69"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/69"
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/ticket/68"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/68"
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-authscheme-registrations-00":
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/query?component=authscheme-registrations"
+    new: # httpbis not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-carpenter-whats-an-author-01":
+  - orignal: "https://trac.tools.ietf.org/group/iesg/trac/wiki/SurprisedAuthors"
+    new: # IESG not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-sparks-genarea-review-tracker-01":
+  - orignal: "https://trac.tools.ietf.org/area/app/trac/wiki/AppsDirReview"
+    new: # app not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/area/gen/trac/wiki"
+    new: # Gen-ART not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/area/rtg/trac/wiki/RtgDir"
+    new: # RTG not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/area/sec/trac/wiki/SecurityDirectorate"
+    new: # Security Area not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-safe-method-w-body-01":
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/ticket/622"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/622"
+
+"https://datatracker.ietf.org/doc/html/draft-iab-irtf-chair-description-01":
+  - orignal: "https://trac.tools.ietf.org/group/iesg/trac/wiki/GenericExpertise"
+    new: # IESG not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/group/irtf/trac/wiki"
+    new: # IRTF not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-iab-rfc4441rev-04":
+  - orignal: "https://trac.tools.ietf.org/bof/trac/"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-bormann-core-ipsec-for-coap-00":
+  - orignal: "https://trac.tools.ietf.org/wg/core/trac/ticket/262"
+    new: # CoRE not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-irtf-icnrg-ccnxsemantics-10":
+  - orignal: "https://trac.tools.ietf.org/html/rfc7927"
+    new: # not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/html/rfc7945"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-flanagan-7322bis-01":
+  - orignal: "https://trac.tools.ietf.org/area/ops/trac/wiki/mib-security"
+    new: # OPS not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/area/ops/trac/wiki/yang-security-guidelines"
+    new: # OPS not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-git-github-wg-configuration-04":
+  - orignal: "https://trac.tools.ietf.org/tools/ietfdb/ticket/2548"
+    new: "https://github.com/ietf-tools/datatracker/issues/2548"
+
+"https://datatracker.ietf.org/doc/html/rfc6756":
+  - orignal: "https://trac.tools.ietf.org/bof/trac/"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/rfc6701":
+  - orignal: "https://trac.tools.ietf.org/group/iesg/trac/wiki/IntellectualProperty"
+    new: # IESG not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-trans-rfc6962-bis-08":
+  - orignal: "https://trac.tools.ietf.org/id/draft-linus-trans-gossip-00.txt"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-reschke-http-status-308-04":
+  - orignal: "https://trac.tools.ietf.org/wg/httpbis/trac/ticket/238"
+    new: # httpbis not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-weber-iri-guidelines-00":
+  - orignal: "https://trac.tools.ietf.org/html/draft-ietf-iri-3987bis-05"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-khasnabish-cloud-reference-framework-03":
+  - orignal: "https://trac.tools.ietf.org/area/app/trac/wiki/Clouds"
+    new: # app not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-farrresnickel-ipr-sanctions-07":
+  - orignal: "https://trac.tools.ietf.org/group/iesg/trac/wiki/IntellectualProperty"
+    new: # IESG not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-lear-liaison-tool-rqts-00":
+  - orignal: "https://trac.tools.ietf.org/newlogin"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-livingood-woundy-congestion-mgmt-03":
+  - orignal: "https://trac.tools.ietf.org/area/rai/trac/raw-attachment/wiki/PeerToPeerInfrastructure/02-Comcast-IETF-P2Pi.pdf"
+    new: # not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/area/rai/trac/raw-attachment/wiki/PeerToPeerInfrastructure/16%20ietf-p2pi-comcast-20080509.pdf"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-bormann-coap-misc-26":
+  - orignal: "https://trac.tools.ietf.org/wg/core/trac/ticket/201"
+    new: # CoRE not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/core/trac/ticket/214"
+    new: # CoRE not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/core/trac/ticket/230"
+    new: # CoRE not yet migrated to git
+  - orignal: "https://trac.tools.ietf.org/wg/core/trac/ticket/241"
+    new: # CoRE not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-jcardcal-jcard-07":
+  - orignal: "https://trac.tools.ietf.org/wg/jcardcal/trac/"
+    new: # not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-tcpm-cubic-00":
+  - orignal: "https://trac.tools.ietf.org/group/irtf/trac/wiki/ICCRG_cubic"
+    new: # IRTF not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-levkowetz-xml2rfc-v3-implementation-notes-12":
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/ticket/311"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/311"
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-opsec-efforts-15":
+  - orignal: "https://trac.tools.ietf.org/area/sec/trac/wiki"
+    new: # SEC not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-pcp-base-02":
+  - orignal: "https://trac.tools.ietf.org/wg/pcp/trac/report/1"
+    new: # PCP not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-openconfig-netmod-model-catalog-02":
+  - orignal: "https://trac.tools.ietf.org/area/rtg/trac/wiki/RtgYangCoordSummary"
+    new: # RTG not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-randriamasy-alto-cost-calendar-04":
+  - orignal: "http://trac.tools.ietf.org/group/irtf/trac/wiki/sdnrg"
+    new: # IRTF not migrated to git yet
+
+"https://datatracker.ietf.org/doc/html/draft-ietf-anima-autonomic-control-plane-22":
+  - orignal: "https://trac.tools.ietf.org/tools/xml2rfc/trac/ticket/347"
+    new: "https://github.com/ietf-tools/xml2rfc/issues/347"
+

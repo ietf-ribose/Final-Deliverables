@@ -1,0 +1,78 @@
+
+"https://www.rfc-editor.org/rfc/rfc7749.html":
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc/archive/README.html" # Error: Object not found!
+    new:
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc/archive/draft-mrose-writing-rfcs.html" # Error: Object not found!
+    new:
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc/vocabulary/v2/03/xml2rfcv2.dtd" # Error: Object not found!
+    new:
+
+"https://www.rfc-editor.org/rfc/rfc7279.html":
+  - orignal: "https://svn.tools.ietf.org/area/ops/trac/wiki/TIG_DIAGNOSTICS"
+    new: # TIG_DIAGNOSTICS not yet migrated to git
+
+"https://www.rfc-editor.org/rfc/rfc7735.html":
+  - orignal: "https://svn.tools.ietf.org/area/ops/trac/wiki/Directorates"
+    new: # Directorates not yet migrated to git
+
+"https://www.ietf.org/archive/id/draft-petithuguenin-computerate-specifying-15.html":
+  - orignal: "https://svn.ietf.org/svn/tools/xml2rfc"
+    new: "https://github.com/ietf-tools/xml2rfc"
+
+"https://www.ietf.org/proceedings/99/agenda/agenda-99-dnsop-08":
+  - orignal: "https://svn.tools.ietf.org/svn/wg/dnsop/doclist.html" # page not found
+    new:
+
+"https://www.ietf.org/media/documents/IETF_Tools_Support_RFP.docx.pdf":
+  - orignal: "https://svn.tools.ietf.org/svn/src/postconfirm" # Error: Could not open the requested SVN filesystem
+    new: "https://github.com/ietf-tools/postconfirm" # I think this is the new link
+  - orignal: "http://svn.tools.ietf.org/svn/src/ghostlinkd"
+    new: # Not migrated to git
+
+"https://www.ietf.org/media/documents/slides-94-edu-toolsids-5.pdf":
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc" # Error: Object not found!
+    new: "https://github.com/ietf-tools/xml2rfc" # not sure but I think this points to xml2rfc repo
+
+"https://www.ietf.org/proceedings/94/slides/slides-94-dnsop-0.pdf":
+  - orignal: "https://svn.tools.ietf.org/svn/wg/dnsop/doclist.html" # Error: Object not found!
+    new:
+
+"https://www.ietf.org/proceedings/93/slides/slides-93-core-0.pdf":
+  - orignal: "https://svn.tools.ietf.org/svn/wg/core/charter-ietf-core." # Error: Object not found!
+    new:
+
+"https://www.ietf.org/proceedings/94/slides/slides-94-netmod-20.pdf":
+  - orignal: "https://svn.tools.ietf.org/svn/wg/netmod/yang-1.1/issues.html" # Error: Object not found!
+    new:
+
+"https://www.ietf.org/rfc/inline-errata/rfc7749.html":
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc/archive/README.html" # Error: Object not found.
+    new: "https://github.com/ietf-tools/xml2rfc/blob/main/README.md" # Not sure but added a link to xml2rfc readme.
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc/archive/draft-mrose-writing-rfcs.html" # Error: Object not found.
+    new:
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc/vocabulary/v2/03/xml2rfcv2.dtd" # Error: Object not found.
+    new:
+
+"https://www.ietf.org/rfc/rfc7735.txt.pdf":
+  - orignal: "https://svn.tools.ietf.org/area/ops/trac/wiki/Directorates"
+    new: # Directorates not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-reschke-xml2rfc-11":
+  - orignal: "https://svn.tools.ietf.org/svn/tools/xml2rfc/archive/draft-mrose-writing-rfcs.html" # Error: Object not found.
+    new:
+  - orignal: "http://svn.tools.ietf.org/svn/tools/xml2rfc/vocabulary/v2/03/xml2rfcv2.dtd" # Error: Object not found.
+    new:
+  - orignal: "https://svn.tools.ietf.org/svn/tools/xml2rfc/archive/README.html" # Error: Object not found.
+    new: "https://github.com/ietf-tools/xml2rfc/blob/main/README.md" # Not sure but added a link to xml2rfc readme.
+
+"https://datatracker.ietf.org/doc/html/draft-sparks-genarea-review-tracker-01":
+  - orignal: "https://svn.tools.ietf.org/area/ops/trac/wiki/Directorates"
+    new: # Directorates not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/draft-shore-icmp-aup-03":
+  - orignal: "https://svn.tools.ietf.org/area/ops/trac/wiki/TIG_DIAGNOSTICS"
+    new: # TIG_DIAGNOSTICS not yet migrated to git
+
+"https://datatracker.ietf.org/doc/html/rfc7279":
+  - orignal: "https://svn.tools.ietf.org/area/ops/trac/wiki/TIG_DIAGNOSTICS"
+    new: # TIG_DIAGNOSTICS not yet migrated to git

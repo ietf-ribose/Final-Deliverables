@@ -1,0 +1,694 @@
+- IETF93Sprint.md
+  - https://tools.ietf.org/agenda/93/venue/?room=rokoska).
+  - http://www.ietf.org/meeting/93/floor-plans.pdf
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - http://docs.djangoproject.com/en/1.6/intro/tutorial01/).
+- IETF92Sprint.md
+  - https://datatracker.ietf.org/static/coverage/
+  - https://datatracker.ietf.org/release/5.12.2/
+  - https://trac.tools.ietf.org/tools/ietfdb/buildbot/waterfall
+  - https://trac.tools.ietf.org:8010/
+  - http://trac.buildbot.net/wiki/SuccessStories)(https://github.com/ietf-tools/datatracker/wiki/BuildBot)
+  - http://www.ietf.org/meeting/92/floor-plans.pdf
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - http://docs.djangoproject.com/en/1.6/intro/tutorial01/).
+- ToolsCheatSheet.md
+  - http://www.ietf.org
+  - https://datatracker.ietf.org
+  - http://tools.ietf.org
+  - http://datatracker.ietf.org/
+  - http://tools.ietf.org/search/
+  - http://tools.ietf.org/html/rfc2026
+  - http://tools.ietf.org/html/draft-rfc-editor
+  - http://tools.ietf.org/pdf/
+  - http://xml.resource.org
+  - http://aaa-sec.com/nroffedit/
+  - http://tools.ietf.org/idnits
+  - http://tools.ietf.org/rfcdiff
+  - http://tools.ietf.org/tools/idspell/webservice
+  - http://datatracker.ietf.org/wg/httpbis
+  - http://datatracker.ietf.org/doc/draft-ietf-httpbis-content-disp/
+  - http://datatracker.ietf.org/meeting/84/agenda/httpbis
+  - http://tools.ietf.org/wg/httpbis
+  - http://tools.ietf.org/wg/httpbis/draft-ietf-httpbis-content-disp
+  - http://tools.ietf.org/wg/httpbis/agenda
+  - http://datatracker.ietf.org/iesg/agenda/
+  - http://datatracker.ietf.org/iesg/agenda/documents/
+  - http://datatracker.ietf.org/wg/chartering/
+  - http://tools.ietf.org/agenda
+  - http://datatracker.ietf.org/meeting/agenda
+  - http://datatracker.ietf.org/meeting/agenda/#INT
+  - http://tools.ietf.org/agenda/84/agenda-84-tcpm
+  - http://tools.ietf.org/news
+  - http://datatracker.ietf.org/community/personal/
+- ProjectStatus_2011_08_19.md
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/704
+  - http://tools.ietf.org/html/rfc6322
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/701
+- IETF76Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://www.djangoproject.com/documentation/0.96/tutorial01/).
+  - http://docs.djangoproject.com/en/dev/releases/1.0-porting-guide/
+  - http://media.djangoproject.com/releases/0.96/Django-0.96.5.tar.gz
+  - http://media.djangoproject.com/releases/1.1.1/Django-1.1.1.tar.gz)
+- IETF77Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png)
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://south.aeracode.org/)
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- SprintCoderSetupTroubleshooting.md
+  - https://gist.github.com/cbowers/bdc67fe1d2417b138846
+  - https://www.rsyslog.com/e/3000
+  - https://flycoolman.com/coding/python/ietf-datatracker-environment-setup/
+- OldStart.md
+  - http://compost.research.att.com:9876/)
+  - http://dtracker.dyndns.org/)
+  - http://merlot.tools.ietf.org:31415/)
+  - http://ietfdev.neustarlab.biz/)
+  - http://www.djangoproject.com/documentation/)
+  - http://www.djangosnippets.org/)
+- IETF110SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- IETF105SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- MergePlan.md
+  - http://datatracker.ietf.org/release/
+  - https://trac.tools.ietf.org/tools/ietfdb/browser/trunk/PLAN>
+- IETF99Sprint.md
+  - https://datatracker.ietf.org/meeting/99/floor-plan?room=karlin-iii#prague-hilton-mezzanine).
+  - https://datatracker.ietf.org/meeting/99/floor-plan
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.10/intro/).
+- IETF98Sprint.md
+  - https://datatracker.ietf.org/meeting/98/floor-plan
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).`
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.7/intro/).
+- IETF107Sprint.md
+  - https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=3&day=21&hour=16&min=0&sec=0&p1=256&p2=70&p3=43&p4=239&p5=101)
+  - https://mailarchive.ietf.org/arch/msg/codesprints/uVhZltQbhfxQDqsI-Qs5AClESO8/).
+  - https://datatracker.ietf.org/)
+  - https://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/1.11/intro/)
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+- IETF106Sprint.md
+  - https://datatracker.ietf.org/)
+  - https://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/1.11/intro/)
+  - https://datatracker.ietf.org/meeting/106/floor-plan?room=ord-blundell)
+  - https://datatracker.ietf.org/meeting/106/floor-plan
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+- IETF108SprintWebex.md
+  - https://ietf.webex.com/ietf/j.php?MTID=m97f38e43248b7692b85b637eb005e11d
+- InterMapTxt.md
+  - http://datatracker.ietf.org/doc/$1
+  - http://www.python.org/peps/pep-$1.html
+  - http://thread.gmane.org/gmane.comp.version-control.subversion.trac.general/
+  - http://thread.gmane.org/gmane.comp.version-control.subversion.trac.devel/
+  - http://www.selenic.com/mercurial/wiki/index.cgi/
+  - http://tools.ietf.org/html/rfc$1
+  - http://www.acronymfinder.com/af-query.asp?String=exact&Acronym=
+  - http://c2.com/cgi/wiki?FindPage&value=
+  - http://www.google.com/search?q=cache:
+  - http://search.cpan.org/perldoc?
+  - http://bugs.debian.org/
+  - http://packages.debian.org/
+  - http://www.dict.org/bin/Dict?Database=*&Form=Dict1&Strategy=*&Query=
+  - http://www.google.com/search?q=
+  - http://groups.google.com/group/$1/msg/$2
+  - http://downlode.org/perl/jargon-redirect.cgi?term=
+  - http://www.usemod.com/cgi-bin/mb.pl?
+  - http://sunir.org/apps/meta.pl?
+  - http://meta.wikipedia.org/wiki/
+  - http://moinmoin.wikiwikiweb.de/
+  - http://www.whois.sc/
+  - http://clublet.com/c/c/why?
+  - http://c2.com/cgi/wiki?
+  - http://en.wikipedia.org/wiki/
+- IETF84Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/692
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - https://docs.djangoproject.com/en/1.6/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- IETF85Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- Sandbox.md
+  - http://sandbox.ietf.org.
+  - https://mailarchive.ietf.org/arch/search/?email_list=sandbox-mailoutput
+- DatabaseSchemaDescription.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/old-models.png)
+  - http://merlot.tools.ietf.org/src/db/iola/conversion/redesign/models.png)
+- IETF73SprintSignUp.md
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/rjs|
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/lars
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/pasi
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/henrik
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/magnus
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/jelte
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/chris
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/alexey
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/kivinen
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/fenner
+- ProjectStatus_2011_09_02.md
+  - http://datatracker.ietf.org/iana/update/
+  - http://datatracker.ietf.org/rfc-editor/update/
+  - http://datatracker.ietf.org/exports/
+- IETF110Sprint.md
+  - https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=02&day=23&hour=16&min=0&sec=0&p1=256&p2=70&p3=43&p4=239&p5=101)
+  - https://datatracker.ietf.org/)
+  - https://trac.ietf.org/trac/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/2.2/intro/)
+  - http://trac.ietf.org/trac/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://trac.ietf.org/trac/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.ietf.org/trac/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - https://trac.ietf.org/trac/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&report=13&desc=1&order=id)
+- DraftRepositoryDirectories.md
+  - http://www.ietf.org/archive/id**.
+- ProjectStatus_2011_09_16.md
+  - http://www.iana.org/protocols/).
+- IETF73SprintLegacyScriptsDocumentation.md
+  - http://www.ietf.org/iesg/iesg.2008-10-09)
+  - http://www.ietf.org/ietf-ftp/1wg-charters.txt
+  - http://www.ietf.org/ietf-ftp/1wg-charters-by-acronym.txt
+  - http://www.ietf.org/ietf/1wg-charters.txt)
+  - http://www.ietf.org/ietf/1wg-charters-by-acronym.txt)
+  - http://www.ietf.org/WG-WEB-Mail.html](http://www.ietf.org/WG-WEB-Mail.html)
+  - http://www.ietf.org/dyn/wg/email-list.html](http://www.ietf.org/dyn/wg/email-list.html)
+  - https://datatracker.ietf.org/list/wg/](https://datatracker.ietf.org/list/wg/)
+  - http://www.ietf.org/internet-drafts/all_id.txt
+  - https://datatracker.ietf.org/public/idindex.cgi,
+  - http://www4.ietf.org/nomcom/index.html](http://www4.ietf.org/nomcom/index.html)
+  - http://datatracker.ietf.org/ann/nomcom/](http://datatracker.ietf.org/ann/nomcom/)
+  - http://www.ietf.org/nomcom/index.html>
+  - https://datatracker.ietf.org/public/show_nomcom_message.cgi?id=$announcement_id>.
+  - http://www.ietf.org/ietf/1wg-summary.txt
+  - http://www.ietf.org/ietf/1wg-summary-by-acronym.txt
+  - http://datatracker.ietf.org/wg/summary-by-area.txt
+  - http://datatracker.ietf.org/wg/summary-by-acronym.txt
+  - http://www.ietf.org/id/1id-abstracts.txt](http://www.ietf.org/id/1id-abstracts.txt)
+  - http://www.ietf.org/id/1id-index.txt](http://www.ietf.org/id/1id-index.txt).
+  - http://www.ietf.org/meetings/agenda_75.txt](http://www.ietf.org/meetings/agenda_75.txt)
+  - http://datatracker.ietf.org/meeting/75/agenda.txt](http://datatracker.ietf.org/meeting/75/agenda.txt)
+  - http://datatracker.ietf.org/idtracker/status/.
+  - http://www.ietf.org/dyn/wg/charter/.*-charter.html
+  - http://datatracker.ietf.org/wg/.*-charter.html
+  - http://www.ietf.org/dyn/wg/charter/.*-charter.html
+  - http://datatracker.ietf.org/wg/.*-charter.html
+  - http://www.ietf.org/dyn/wg/charter/alto-charter.html
+  - http://datatracker.ietf.org/wg/alto-charter.html
+  - http://www.ietf.org/dyn/wg/charter/alto-charter.txt
+  - http://datatracker.ietf.org/wg/alto-charter.txt
+  - http://www.ietf.org/html.charters/wg-dir.html
+  - http://www.ietf.org/dyn/wg/charter.html
+  - http://datatracker.ietf.org/wg/
+  - http://www.ietf.org/wg.www.pages
+- IETF108.1Sprint.md
+  - https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=9&day=25&hour=20&min=0&sec=0&p1=256&p2=70&p3=43&p4=239&p5=101)
+  - https://mailarchive.ietf.org/arch/msg/codesprints/p-8YCAvo9QiZlQcnw6uq1b2Yhi4/).
+  - https://datatracker.ietf.org/)
+  - https://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/2.2/intro/)
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+- IETF108.1SprintWebex.md
+  - https://ietf.webex.com/ietf/j.php?MTID=m212903670d2bd55b4d367e4d0ea98b39
+  - https://ietf.webex.com/ietf/j.php?MTID=m212903670d2bd55b4d367e4d0ea98b39
+  - https://ietf.webex.com/ietf/globalcallin.php?MTID=m59f4755a289f6b6b6b8ca85aa44b692d
+- Redirects.md
+  - http://httpd.apache.org/docs/2.2/mod/mod_alias.html#redirectmatch)
+- IETF109SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- IETF83Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/679
+  - http://wiki.tools.ietf.org/tools/art/trac/ticket/9
+  - http://wiki.tools.ietf.org/tools/art/trac/ticket/4
+  - http://wiki.tools.ietf.org/tools/art/trac/ticket/10
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- IETF82Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- SetupScript.md
+  - https://tools.ietf.org/tools/idnits/idnits
+- IETF108.1SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- IETF89Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/personal/lars/5.0.0-facelift/
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/806
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - http://docs.djangoproject.com/en/1.6/intro/tutorial01/).
+- IETF88Sprint.md
+  - http://www.ietf.org/meeting/88/floor-plans.pdf](http://www.ietf.org/meeting/88/floor-plans.pdf)).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/22
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://www.ietf.org/mail-archive/web/88attendees/current/msg00089.html)
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.2/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- IETF110.1SprintWebex.md
+  - https://ietf.webex.com/ietf/j.php?MTID=m4b4c5fc79a2832f1769271b18c7d98b3
+- NewStart.md
+  - http://djangoproject.org)
+- IETF106SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- IETF113SprintSignUp.md
+  - https://notes.ietf.org/notes-ietf-113-tools
+- Filters.md
+  - http://www.djangoproject.com/documentation/templates_python/#writing-custom-template-filters
+  - http://www.djangoproject.com/documentation/templates/#built-in-filter-reference
+- ProjectStatus_2011_09_09.md
+  - http://www.iana.org/protocols/).
+- ProjectList.md
+  - https://trac.tools.ietf.org/tools/ietfdb/wiki/FormatToolsPlan)(https://github.com/ietf-tools/datatracker/wiki/FormatToolsPlan)]
+  - http://www.nostrum.com/~rjsparks/rfced/PublicationFormatter-08.pdf)
+  - https://trac.tools.ietf.org/tools/ietfdb/wiki/FormatToolsPlan)(https://github.com/ietf-tools/datatracker/wiki/FormatToolsPlan)]
+  - http://www.nostrum.com/~rjsparks/rfced/idnits-05.pdf)
+  - http://xml.resource.org/)*
+  - http://svn.tools.ietf.org/svn/tools/mailarch/trunk/)
+  - http://iaoc.ietf.org/documents/IPR-SOW-04.pdf)
+  - http://iaoc.ietf.org/documents/liaison-sow-04.pdf)
+  - http://www.nostrum.com/~rjsparks/pmsow/manualpost-sow-00.pdf)
+  - http://www.nostrum.com/~rjsparks/pmsow/review-tracker-sow-00.pdf)
+  - https://trac.tools.ietf.org/tools/ietfdb/browser/mailarch)
+  - http://www.nostrum.com/~rjsparks/rfced/TextSubmissionConverter-06.pdf)
+  - http://www.nostrum.com/~rjsparks/rfced/rfclint-06.pdf)
+  - http://www.nostrum.com/~rjsparks/rfced/svgcheck-04.pdf)
+  - http://www.nostrum.com/~rjsparks/rfced/xmlDiff-05.pdf)
+- SowIesgDatatracker.md
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/
+  - http://trac.tools.ietf.org/tools/ietfdb/browser/tags/
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/branch/legacy/iesg/idtracker.cgi
+  - http://trac.tools.ietf.org/events/raw/sqldump/ietf_db_dump.sql
+  - http://tools.ietf.org/newlogin
+  - http://trac.tools.ietf.org/tools/ietfdb/browser/branch/2.00/
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/branch/2.00/
+  - http://merlot.tools.ietf.org/cgi-bin/idtracker.cgi
+  - http://merlot.tools.ietf.org/src/db/new/redesign/old-models.png
+- IETF94Sprint.md
+  - http://www.ietf.org/meeting/94/floor-plans.pdf
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - http://docs.djangoproject.com/en/1.6/intro/tutorial01/).
+- IETF107.1SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- IETF95Sprint.md
+  - http://www.ietf.org/meeting/95/floor-plans.pdf
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.7/intro/).
+- UrlTest.md
+  - http://docs.python.org/lib/module-unittest.html),
+  - http://www.djangoproject.com/documentation/0.96/testing/),
+  - https://datatracker.ietf.org/public/ipr_list.cgi
+- IETF107SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- IETF107.1Sprint.md
+  - https://datatracker.ietf.org/),
+  - https://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/1.11/intro/)
+  - https://ietf.webex.com/ietf/j.php?MTID=m15db59f929c4dcbfed8ba5719fcb770c](https://ietf.webex.com/ietf/j.php?MTID=m15db59f929c4dcbfed8ba5719fcb770c)
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - https://tools.ietf.org/tools/ietfdb/ticket/2955)**
+  - https://tools.ietf.org/tools/ietfdb/ticket/2979)**
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+- VancouverSprint.md
+  - http://www.djangoproject.com/documentation/0.96/tutorial01/)
+  - http://tools.ietf.org/demo/www.ietf.org/
+  - http://merlot.tools.ietf.org/group/tools/trac/wiki/AtomFeeds)
+  - http://merlot.tools.ietf.org/group/tools/trac/wiki/DataSources)
+  - http://www.arkko.com/tools/stats.html)
+  - http://www.arkko.com/temp/sprint](http://www.arkko.com/temp/sprint)
+  - http://picasaweb.google.com/EronenP/IETF70CodeSprint?authkey=aQkEcprOeVo](http://picasaweb.google.com/EronenP/IETF70CodeSprint?authkey=aQkEcprOeVo)
+- ProjectSetup.md
+  - http://www.djangoproject.org/).
+  - http://svnbook.red-bean.com/))
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/trunk/
+- ProjectStatus_2011_08_26.md
+  - http://beta.wgchairs.yaco.es
+- ProjectStatus_2011_08_12.md
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/699
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/701
+- Testing.md
+  - http://docs.djangoproject.com/en/dev/topics/testing/
+  - http://docs.python.org/lib/module-unittest.html):
+  - http://docs.python.org/lib/module-doctest.html):
+  - http://nedbatchelder.com/code/coverage/)
+  - http://buildbot.net/)(https://github.com/ietf-tools/datatracker/wiki/BuildBot)]
+  - https://trac.tools.ietf.org:8010/
+  - http://buildbot.net/)(https://github.com/ietf-tools/datatracker/wiki/BuildBot)]
+  - http://trac.buildbot.net/wiki/SuccessStories)(https://github.com/ietf-tools/datatracker/wiki/BuildBot)
+- IETF100Sprint.md
+  - https://datatracker.ietf.org/meeting/100/floor-plan#ord).
+  - https://datatracker.ietf.org/meeting/100/floor-plan
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.10/intro/).
+- IETF101Sprint.md
+  - https://datatracker.ietf.org/meeting/101/floor-plan?room=cadogan-berkeley).
+  - https://datatracker.ietf.org/meeting/101/floor-plan
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.10/intro/).
+- IETF108SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- Home.md
+  - https://www.github.com/ietf-tools/datatracker).
+  - http://www.ietf.org/PASTMEETINGS/70b-IETF.html)
+- IETF113Sprint.md
+  - https://notes.ietf.org/notes-ietf-113-tools
+- DatabaseSchemaConversion.md
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/branch/iola/conversion
+- NativeSetup.md
+  - https://pypi.python.org/pypi/pip)
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/personal/<<yourname>>/<<version>>
+  - http://tools.ietf.org/tools/idnits/
+  - http://tools.ietf.org/tools/idnits/
+  - https://virtualenv.pypa.io/en/latest/).
+  - https://dev.mysql.com/downloads/connector/c/6.0.html.
+- InstructionsForTesters.md
+  - http://trackerbeta.ietf.org/accounts/testemail/
+  - http://trackerbeta.ietf.org/
+- proceedings16.md
+  - http://www.nostrum.com/~rjsparks/draft-sparks-genarea-proceedings-materials-pre00.txt
+  - https://datatracker.ietf.org/secr/proceedings/96/6lo/.
+  - https://datatracker.ietf.org/meeting/96/session/rtcweb/.
+  - https://www.ietf.org/proceedings/95/httpbis.html.
+- ProjectStatus_2011_08_05.md
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/694
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/688
+- IETF87Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/22
+  - http://trac.tools.ietf.org/tools/art/trac/report
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- IETF86Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/art/trac/report
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- Logging.md
+  - http://docs.python.org/lib/module-logging.html),
+  - http://docs.python.org/lib/module-syslog.html),
+- SprintCoderSetup.md
+  - http://localhost:8000/
+- IETF110.1Sprint.md
+  - https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=06&day=1&hour=15&min=0&sec=0&p1=256&p2=70&p3=43&p4=239&p5=101)
+  - https://datatracker.ietf.org/)
+  - https://trac.ietf.org/trac/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/2.2/intro/)
+  - http://trac.ietf.org/trac/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://trac.ietf.org/trac/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.ietf.org/trac/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - https://trac.ietf.org/trac/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&report=13&desc=1&order=id)
+- IETF104Sprint.md
+  - https://datatracker.ietf.org/meeting/104/floor-plan
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/886
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/2699
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/1375
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/1375
+  - https://tools.ietf.org/tools/ietfdb/ticket/2656
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/2686
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.10/intro/).
+- IETF105Sprint.md
+  - https://datatracker.ietf.org/)
+  - https://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/1.11/intro/)
+  - https://datatracker.ietf.org/meeting/105/floor-plan?room=mansfield#2nd-floor).
+  - https://datatracker.ietf.org/meeting/105/floor-plan
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+- IETF110.1SprintSignUp.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+- PageTemplates.md
+  - http://trac.edgewall.org/milestone/0.11))*
+- IETF90Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/1161
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/477|
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/1082|
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/958|
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/1112|
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/1432|
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/1368|
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/1312|
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/911|
+  - https://trac.tools.ietf.org/tools/ietfdb/ticket/978|
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/1305|
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/1381|
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - http://docs.djangoproject.com/en/1.6/intro/tutorial01/).
+- IETF91Sprint.md
+  - http://www.ietf.org/meeting/91/floor-plans.pdf
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - http://docs.djangoproject.com/en/1.6/intro/tutorial01/).
+- IETF75Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://www.djangoproject.com/documentation/0.96/tutorial01/).
+  - http://docs.djangoproject.com/en/dev/releases/1.0-porting-guide/
+  - http://media.djangoproject.com/releases/0.96/Django-0.96.3.tar.gz
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/75/yourname
+  - http://trac.tools.ietf.org/tools/ietfdb/browser/branch/legacy
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/branch/legacy/
+- IETF74Sprint.md
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://www.djangoproject.com/documentation/0.96/tutorial01/).
+  - http://docs.djangoproject.com/en/dev/releases/1.0-porting-guide/
+  - http://media.djangoproject.com/releases/0.96/Django-0.96.3.tar.gz
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/74/yourname
+  - http://trac.tools.ietf.org/tools/ietfdb/browser/branch/legacy
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/branch/legacy/
+- IETF110SprintWebex.md
+  - https://ietf.webex.com/ietf/j.php?MTID=m8202907c3884d9e6b4c5f261c978d6f1
+- IETF107SprintWebex.md
+  - https://ietf.webex.com/ietf/j.php?MTID=m9fc81fb1d44d411ad7f354bd7a0e97d7](https://ietf.webex.com/ietf/j.php?MTID=m9fc81fb1d44d411ad7f354bd7a0e97d7)
+  - https://ietf.webex.com/ietf/j.php?MTID=m9fc81fb1d44d411ad7f354bd7a0e97d7](https://ietf.webex.com/ietf/j.php?MTID=m9fc81fb1d44d411ad7f354bd7a0e97d7)
+  - https://ietf.webex.com/ietf/globalcallin.php?MTID=m83d4c5778244769ce67ac42ec5871146
+  - https://www.webex.com/pdf/tollfree_restrictions.pdf
+  - https://collaborationhelp.cisco.com/article/WBX000029055
+- ContractorInstructions.md
+  - https://github.com/ietf-tools).
+  - https://github.com/ietf-tools/.github/blob/main/CONTRIBUTING.md
+  - http://trustee.ietf.org/license-info.
+  - https://pip.pypa.io/en/stable/)
+  - https://pip.pypa.io/en/stable/user_guide/#requirements-files)
+  - https://packaging.python.org/en/latest/),
+  - https://pypi.python.org/pypi)
+  - https://docs.python.org/2/distributing/)
+  - https://virtualenv.pypa.io/en/stable/),
+  - https://svn.tools.ietf.org/svn/tools/ietfdb/trunk/INSTALL)
+- IETF103Sprint.md
+  - https://datatracker.ietf.org/meeting/103/floor-plan?room=apartment-1).
+  - https://datatracker.ietf.org/meeting/103/floor-plan
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.10/intro/).
+- IETF102Sprint.md
+  - https://datatracker.ietf.org/meeting/102/floor-plan?room=sherbrooke-mansfield).
+  - https://datatracker.ietf.org/meeting/102/floor-plan
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.10/intro/).
+- IETF78Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- IETF79Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- IETF109SprintWebex.md
+  - https://ietf.webex.com/ietf/j.php?MTID=m354c321179cfae9a8e05bae1c7601a04
+- IETF97Sprint.md
+  - https://www.ietf.org/meeting/97/floor-plans.pdf
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.7/intro/).
+- IETF96Sprint.md
+  - https://datatracker.ietf.org/meeting/96/floor-plan?room=koepenick-i-ii).
+  - http://www.ietf.org/meeting/96/floor-plans.pdf
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id)
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+  - https://docs.djangoproject.com/en/1.7/intro/).
+- IETF109Sprint.md
+  - https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=11&day=14&hour=5&min=0&sec=0&p1=256&p2=70&p3=43&p4=239&p5=101)
+  - https://mailarchive.ietf.org/arch/msg/codesprints/lGnhuAyvINCXtF_Q9WymxTmo0u0).
+  - https://datatracker.ietf.org/)
+  - https://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/2.2/intro/)
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+- IETF108Sprint.md
+  - https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=7&day=25&hour=16&min=0&sec=0&p1=256&p2=70&p3=43&p4=239&p5=101)
+  - https://mailarchive.ietf.org/arch/msg/codesprints/p-8YCAvo9QiZlQcnw6uq1b2Yhi4/).
+  - https://datatracker.ietf.org/)
+  - https://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id),
+  - https://docs.djangoproject.com/en/2.2/intro/)
+  - http://trac.tools.ietf.org/tools/ietfdb/query?status=assigned&status=new&status=reopened&status=accepted&keywords=~sprint+easy&group=priority&max=0&col=id&col=summary&col=keywords&col=owner&col=component&desc=1&order=id).
+  - http://tools.ietf.org/tools/ietfdb/newticket
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://wiki.tools.ietf.org/tools/ietfdb/report/13
+- Docker.md
+  - https://hub.docker.com/r/ietf/datatracker-environment/,
+  - https://svn.tools.ietf.org/svn/tools/ietfdb/personal/coder/6.48.1.dev0
+  - https://www.ietf.org/lib/dt/sprint/ietf_utf8.bin.tar.bz2
+  - http://localhost:8000/
+  - http://192.168.59.103:8000/
+  - https://www.docker.com/
+  - https://www.docker.com/products/overview#/install_the_platform
+  - https://www.virtualbox.org/
+- IETF73Sprint.md
+  - http://www.djangoproject.com/documentation/0.96/tutorial01/).
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/sprint/73/yourname
+- InterTrac.md
+  - http://trac.edgewall.org
+- SvnTracHooks.md
+  - http://tools.ietf.org/tools/wg-pages/svn-hook-files/trac-post-commit-hook
+- VancouverSprintSvnCheckout.md
+  - http://svn.tools.ietf.org/svn/tools/ietfdb/branch/sprint-2007-vancouver/`
+- PhillySprint.md
+  - http://www.ietf.org
+- UrlDesign.md
+  - http://www.w3.org/Provider/Style/URI),
+  - http://www.pixelcharmer.com/fieldnotes/2003/cool-uris/index.html)
+  - http://www.w3.org/Provider/Style/URI),
+  - http://tools.ietf.org/,
+  - http://tools.ietf.org/html/
+  - http://tools.ietf.org/pdf/
+  - http://www.ietf.org/ipr/ipr-765`.
+  - http://www.ietf.org/ipr/`
+  - http://www.ietf.org/ipr/2005`,
+  - http://www.ietf.org/ipr/about`
+  - http://en.wikipedia.org/wiki/Calendar_date.
+- InterWiki.md
+  - http://www.python.org/peps/pep-$1.html
+  - http://thread.gmane.org/gmane.comp.version-control.subversion.trac.general/$1
+  - http://www.usemod.com/cgi-bin/mb.pl?
+  - http://sunir.org/apps/meta.pl?
+  - http://meta.wikipedia.org/wiki/
+  - http://moinmoin.wikiwikiweb.de/
+- IetfSpecificFeatures.md
+  - http://tools.ietf.org/newpasswd
+  - http://trac-hacks.org/wiki/TicketStatsMacro](http://trac-hacks.org/wiki/TicketStatsMacro).
+  - http://tools.ietf.org/wg/<wg>/trac***.
+  - http://tools.ietf.org/wg/<wg>***
+  - http://svn.tools.ietf.org/svn/wg/<wg>***.
+  - http://svn.tools.ietf.org/svn/wg/hybi/
+  - http://subversion.apache.org/.
+- IETF80Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png).
+  - http://www.hilton.com/en/hotels/groups/popup_floor_map.jhtml?ctyhocn=PRGHITW&floorId=PRGHITW_MEZZANINE_LEVEL_A)).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/601
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/552
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/550
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
+- IETF81Sprint.md
+  - http://merlot.tools.ietf.org/src/db/new/redesign/models.png).
+  - https://www.ietf.org/mailman/listinfo/codesprints](https://www.ietf.org/mailman/listinfo/codesprints).
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/684
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/689
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/655
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/673
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/485
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/682
+  - http://trac.tools.ietf.org/tools/ietfdb/ticket/478
+  - http://trac.tools.ietf.org/tools/ietfdb/newticket?keywords=sprint&type=enhancement&priority=n/a&version=&component=Other).
+  - http://docs.djangoproject.com/en/1.1/intro/tutorial01/).
+  - http://merlot.tools.ietf.org/src/db/new/redesign](http://merlot.tools.ietf.org/src/db/new/redesign))
